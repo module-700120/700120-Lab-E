@@ -17,6 +17,7 @@ Add the following new methods:
 - Scalar product (i.e. dot product)
 
 Add new methods which overload the following binary operators:
+
 - `+` vector addition
 - `-` vector subtraction
 - `*` scalar product
@@ -27,6 +28,7 @@ Add new methods which overload the following binary operators:
 - `>>` stream in
 
 Add new methods which overload the following unary operators:
+
 - `-` vector inversion (reverse the vector)
 
 Now that you have 3 methods to add two vectors, use the timing code from early labs to analyse the performance of each implementation.
@@ -50,6 +52,7 @@ Walk through the code for `Matrix33d` and familiarise yourself with the names an
 Using the knowledge gained from the previous exercises on Vector mathematics, complete the `Matrxix33d` class.
 
 Functionality to be included:
+
 - Addition
 - Subtraction
 - Multiplication
